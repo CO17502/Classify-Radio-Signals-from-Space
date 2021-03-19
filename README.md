@@ -8,4 +8,4 @@ Those images are then used to train an image classification model to classify th
 Convolutional neural network has been used to classify signals from space. 
 Thus, the Keras API has been used along with TensorFlow as its backend to build and train a neural network model to solve an image classification problem.
 
-To obtain dataset use https://drive.google.com/file/d/1TDbwnAJvSWrXozJYNG3uEn9TCfB5ykFp/view?usp=sharing
+To obtain dataset use https://drive.google.com/drive/folders/14MzYhh6aMz26gvlWhPhG4UtRo-qL_8CM?usp=sharing
